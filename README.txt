@@ -1,32 +1,33 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# 🌐 Michael Okanta – Personal Website (v2)
 
+Welcome to the second (and way better) version of my personal website — built with clean HTML, CSS, and lots of learning.
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
+My first portfolio site was… not great. But instead of settling, I dug deeper into front-end structure, layout principles, and visual storytelling. This new version reflects that growth — and tells my story more fully, more clearly, and more intentionally.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+---
 
-(* = not included)
+## 📁 Pages
 
-AJ
-aj@lkn.io | @ajlkn
+- **🏠 Home**  
+  A quick glimpse into my world — who I am and what I do.
 
+- **👤 About Me**  
+  A personal walkthrough of my academic path, passions, and what drives my work.
 
-Credits:
+- **📊 Projects**  
+  A showcase of real-world, problem-solving projects — from dashboards to data products.
 
-	Demo Images:
-		Unsplash (unsplash.com)
+- **📚 Academic Research**  
+  Peer-reviewed articles, simulation studies, and journal review contributions — the research side of my story.
 
-	Icons:
-		Font Awesome (fontawesome.io)
+- **📸 Off the Record**  
+  A photo gallery titled *Beyond the Data* — capturing milestones, memories, and moments that don't fit into a resume. Because people matter more than pixels.
 
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+---
+
+## 💻 Tech Stack
+
+- HTML5  
+- CSS3  
+- GitHub Pages (for hosting)  
+- Raw hustle and zero templates
